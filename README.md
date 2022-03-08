@@ -1,12 +1,12 @@
-# React Discord Clone
+# HuxCord (A HuxBook spinoff which is a Discord clone)
 > Functional Discord Clone using React, Socket IO, NodeJS, Express and MySQL
 
 
-Originally started off on a test project for learning Functional Components, Hooks and Socket IO, ended up being a Discord Clone. 
+Since HuxBook doesn't have private messaging, I think this should be the sub for it. 
 
 ![layout image](public/readmepic.png)
 
-Live Version http://ericellb.github.io/React-Discord-Clone
+Live Version https://huxtabl8.github.io/huxcord/
 
 API https://github.com/ericellb/React-Discord-API
 
@@ -33,7 +33,7 @@ API https://github.com/ericellb/React-Discord-API
   - [ ] Voice Chat down the road...
 
 
-## Lisence
+## Owner / Lisence
 Copyright Eric Ellbogen 2019
 
 - This project is under the **GNU V3** license. [Find it here](https://github.com/ericellb/React-Discord-Clone/blob/master/LICENSE).
